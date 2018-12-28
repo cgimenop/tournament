@@ -1,0 +1,28 @@
+{
+    "deployments": [
+        { 
+            "id": 1,
+            "name": "Spearhead Assault"
+        },
+        { 
+            "id": 2,
+            "name": "Dawn of War"
+        },
+        { 
+            "id": 3,
+            "name": "Search & Destroy"
+        },
+        { 
+            "id": 4,
+            "name": "Hammer & Anvil"
+        },
+        { 
+            "id": 5,
+            "name": "Frontline Assault"
+        },
+        { 
+            "id": 6,
+            "name": "Vanguard Strike"
+        }
+    ]
+}

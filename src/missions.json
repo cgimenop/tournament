@@ -1,0 +1,116 @@
+{
+    "missions": [
+            { 
+                "name": "Cleanse & Capture"
+            },
+            { 
+                "name": "Contact Lost"
+            },
+            { 
+                "name": "Tactical Escalation"
+            },
+            { 
+                "name": "Spoils of War"
+            },
+            { 
+                "name": "Cloak & Shadows"
+            },
+            { 
+                "name": "Deadlock"
+            },
+            { 
+                "name": "Kill Confirmed (CH APP 2017)"
+            },
+            { 
+                "name": "Targets of Opportunity (CH APP 2017)"
+            },
+            { 
+                "name": "Tactical Gambit (CH APP 2017)"
+            },
+            { 
+                "name": "Race to Victory (CH APP 2017)"
+            },
+            { 
+                "name": "Sealed Orders (CH APP 2017)"
+            },
+            { 
+                "name": "Recon (CH APP 2017)"
+            },
+            { 
+                "name": "Disruptive Signals (CH APP 2018)"
+            },
+            { 
+                "name": "Decapitation Strike (CH APP 2018)"
+            },
+            { 
+                "name": "Strategic Gamble (CH APP 2018)"
+            },
+            { 
+                "name": "Tactical Cascade (CH APP 2018)"
+            },
+            { 
+                "name": "Visions of Victory (CH APP 2018)"
+            },
+            { 
+                "name": "Scars of Battle (CH APP 2018)"
+            },
+            { 
+                "name": "Retrieval Mission"
+            },
+            { 
+                "name": "No Mercy"
+            },
+            { 
+                "name": "The Scourging"
+            },
+            { 
+                "name": "Big Guns Never Tire"
+            },
+            { 
+                "name": "Secure and Control"
+            },
+            { 
+                "name": "The Relic"
+            },
+            { 
+                "name": "Disruptive Signals (CH APP 2018)"
+            },
+            { 
+                "name": "Frontline Warfare (CH APP 2017)"
+            },
+            { 
+                "name": "Resuppley drop (CH APP 2017)"
+            },
+            { 
+                "name": "Scorched Earth (CH APP 2017)"
+            },
+            { 
+                "name": "Dominate and Destroy (CH APP 2017)"
+            },
+            { 
+                "name": "Ascension (CH APP 2017)"
+            },
+            { 
+                "name": "Roving Patrol(CH APP 2017)"
+            },
+            { 
+                "name": "Vital Intelligence (CH APP 2018)"
+            },
+            { 
+                "name": "Narrow the Search (CH APP 2018)"
+            },
+            { 
+                "name": "Cut Off the Head (CH APP 2018)"
+            },
+            { 
+                "name": "The Four Pillars (CH APP 2018)"
+            },
+            { 
+                "name": "Supplies from Above (CH APP 2018)"
+            },
+            { 
+                "name": "Beachhead (CH APP 2017)"
+            }
+
+        ]
+}

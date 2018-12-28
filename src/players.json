@@ -1,0 +1,12 @@
+{
+    "players":[
+        {
+            "name": "Alvaro",
+            "army": "Custodes"
+        },
+        {
+            "name": "Carlos",
+            "army": "Ynnari"
+        }
+    ]
+}
