@@ -31,29 +31,29 @@ while len(players["players"]) > 1:
     deployment, deployments = random_choose(deployments, "deployments")
     mission, missions = random_choose(missions, "missions")
 
-    print "Match %(player1)s vs %(player2)s Mission: %(mission)s Map: %(map)s" % \
+    print ("Match %(player1)s vs %(player2)s Mission: %(mission)s Map: %(map)s" % \
     {
         "player1": player1["name"], 
         "player2": player2["name"],
         "mission": mission["name"],
         "map": deployment["name"]
-    }
+    })
 
 consolation_deployment, deployments = random_choose(deployments, "deployments")
 consolation_mission, missions = random_choose(missions, "missions")
-print "Consolation Match Mission: %(mission)s Map: %(map)s" % \
+print ("Consolation Match Mission: %(mission)s Map: %(map)s" % \
 {
     "mission": consolation_mission["name"],
     "map": consolation_deployment["name"]
-}
+})
 
 final_deployment, deployments = random_choose(deployments, "deployments")
 final_mission, missions = random_choose(missions, "missions")
-print "Final Match Mission: %(mission)s Map: %(map)s" % \
+print ("Final Match Mission: %(mission)s Map: %(map)s" % \
 {
     "mission": final_mission["name"],
     "map": final_deployment["name"]
-}
+})
 
 
 
